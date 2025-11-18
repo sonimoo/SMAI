@@ -72,8 +72,6 @@ system.cpu.load[all,avg1] > 2 на протяжении более 5 минут.
 ![alt text](img/image-10.png)
 ![alt text](img/image-11.png)
 
-![alt text](img/image-12.png)
-
 ### 2. Применение шаблона к хосту
 
 Созданный шаблон `Template IT-System-Monitoring` был привязан к хосту `agent-vm` через меню `Configuration → Hosts → Templates → Link new templates`. 
